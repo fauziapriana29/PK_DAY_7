@@ -1,0 +1,7 @@
+body {
+    background-color: teal;
+}
+.carousel-item {
+    width: 1000px;
+    height: 500px;
+}
